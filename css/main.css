@@ -63,7 +63,7 @@ header {
 }
 
 .project-image-wrapper {
-    width: 100%;
+    width: auto;
     padding: 1rem; /* Creates white space around the image inside the box */
     background-color: white; /* White background for the box */
     border-radius: 10px; /* Optional: for rounded corners */
@@ -73,7 +73,7 @@ header {
 }
 
 .project-image-wrapper img {
-    width: 100%;
+    width: auto;
     height: auto;
     display: block;
     object-fit: cover;
