@@ -62,6 +62,14 @@ header {
     height: 5rem;
 }
 
+img.hover-effect {
+  transition: transform 0.3s ease; /* smooth zoom */
+}
+
+img.hover-effect:hover {
+  transform: scale(1.05); /* slightly zoom in */
+}
+
 .project-image-wrapper {
     width: auto;
     padding: 1rem; /* Creates white space around the image inside the box */
