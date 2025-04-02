@@ -67,7 +67,7 @@ img.hover-effect {
 }
 
 img.hover-effect:hover {
-  transform: scale(1.1); /* slightly zoom in */
+  transform: scale(0.6); /* slightly zoom in */
 }
 
 .project-image-wrapper {
