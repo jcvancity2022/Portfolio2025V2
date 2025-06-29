@@ -783,7 +783,7 @@ nav .navigation {
 
     }
     /* Class to apply the left to right animation */
-    .web-designer {
+    .UX/UI-designer {
         font-size: 2rem;
         position: relative;
         animation: 1.8s ease-out 0s 1 slideInFromLeft;
@@ -979,7 +979,7 @@ nav .navigation {
         .header-content .name{
             font-size: 1.5rem;
         }
-        .header-content .web-designer {
+        .header-content .UI/UX-designer {
             font-size: 1rem;
         }
         .header-content .developer{
